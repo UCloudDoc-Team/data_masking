@@ -11,11 +11,11 @@
      * [登录系统](/data_masking/operation/login/login.md)
    * 系统管理平台
      * [监控墙](/data_masking/operation/sysmanage/monitor.md)
-     * [用户管理](/data_masking/operation/manage/usermanage.md)
+     * [用户管理](/data_masking/operation/sysmanage/usermanage.md)
      * [告警管理](/data_masking/operation/sysmanage/alert.md)
-     * [系统管理](/data_masking/operation/manage/sysmanage.md)
-     * [日志管理](/data_masking/operation/manage/logmanage.md)
-     * [软件授权](/data_masking/operation/manage/license.md)
+     * [系统管理](/data_masking/operation/sysmanage/sysmanage.md)
+     * [日志管理](/data_masking/operation/sysmanage/logmanage.md)
+     * [软件授权](/data_masking/operation/sysmanage/license.md)
    * 操作管理平台
      * [数据源管理](/data_masking/operation/rule/datasource.md)
      * [静态脱敏](/data_masking/operation/rule/sdm.md)
