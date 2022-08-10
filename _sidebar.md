@@ -7,7 +7,7 @@
    * [部署方式](/data_masking/concepts/deployment)
    * [数据盘说明](/data_masking/concepts/shujupan)
 * [快速上手](/data_masking/start)
-* 操作指南
+* [操作指南](/data_masking/operation)
 
    * 登录
 
